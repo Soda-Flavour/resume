@@ -3,9 +3,9 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: 이대준 (LEE Daejun)
+title: Good programmers write code that humans can understand.
+email: axa8380@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
@@ -24,9 +24,8 @@ github_username: Soda-Flavour
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요~!
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  4년차 개발자로 다양한 프로덕션 서비스를 설계, 개발 한 경험이 있습니다. 결과만 생각하는 난해한 코드보다는 모두가 이해할 수 있는 개발을 지향하고 있습니다.
+  백앤드 개발의 전문가가 되는것 뿐만 아니라, 서비스의 전반적인 부분을 알고 일하는 개발자가 될 수 있도록 항상 노력하고 있습니다.
 
 # Projects Section
 # projects_title: Projects
