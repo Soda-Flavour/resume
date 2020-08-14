@@ -1,0 +1,5 @@
+<div class="container education-container">
+  <h3>{{ site.military_title | default: "Military Service" }}</h3>
+  {% for military in site.data.military %} {% include {{ military.layout |
+  default: 'left' | append: ".html" }} item=military %} {% endfor %}
+</div>
