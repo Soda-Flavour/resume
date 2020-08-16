@@ -70,6 +70,7 @@ p, ul {
   text-align: justify;
 }
 
+
 ul {
   // display: block;
   // list-style-type: disc;
@@ -81,13 +82,21 @@ ul {
 }
 
 
+ul {
+  @media screen and (max-width: 768px) {
+    padding-inline-start: 15px;
+  }
+}
+
+
 
 a i {
   font-size:1.6rem;
 }
 
 mark {
-  padding: 2px 4px;
+  padding: 0px 4px;
+  display: inline-block;
   font-size: 90%;
   color: #fff;
   margin-right: 3px;
@@ -99,7 +108,8 @@ mark {
 
 
 mark2 {
-  padding: 2px 4px;
+  padding: 0px 4px;
+  display: inline-block;
   font-size: 90%;
   color: #fff;
   margin-right: 3px;
