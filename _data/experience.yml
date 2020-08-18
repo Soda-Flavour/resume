@@ -6,7 +6,7 @@
   #   실시간 통역 어플리케이션 유지보수
   description: | # this will include new lines to allow paragraphs
     - 실시간 통역 어플리케이션 유지보수
-      - <mark>WebRTC</mark>기반 어플리케이션의 백앤드 및 프론트 앤드유지보수
+      - <mark>WebRTC</mark>기반 어플리케이션의 백앤드 및 프론트앤드 유지보수
     - 개인 프로젝트 수행 중
       - Tennist 어플리케이션 및 백앤드 서버 개발
 
@@ -21,7 +21,7 @@
     - 다수의 외주 프로젝트 수행
       - 주요 프로젝트: 배네스템(홈페이지), 꿀발리(여행 일정 예약웹), 모리(실시간 통역어플리케이션)
     - 사내 프로젝트 수행
-      - 재사용성을 높인 NodeJs API 서버 개발.
+      - 재사용성을 높인 <mark>Node.Js</mark> API 서버 개발.
 
 - layout: left
   company: 위츠 모빌리티
@@ -31,10 +31,10 @@
   # quote: >
   #   사내 애플리케이션 기획, 홈페이지 제작 및 관리, 개발 관련 커뮤니케이션
   description: | # this will include new lines to allow paragraphs
-    - 카풀 서비스인 어디고 어플리케이션 기획
+    - 카풀 서비스 '어디고' 어플리케이션 기획
     - 운영 관리자 기획
     - 사내 홈페이지 제작 및 관리
-    - 베트남의 개발팀과 API 개발 관련 커뮤니케이션을 담당
+    - 베트남 개발팀과 API 개발 관련 커뮤니케이션 담당
 
 - layout: left
   company: 스키넵
@@ -45,4 +45,4 @@
   #   외주 및 사내 프로젝트 개발 및 클라이언트 커뮤니케이션*
   description: | # this will include new lines to allow paragraphs
     - 다수의 외주 프로젝트 수행
-      - 주요 프로젝트: 윤선생 베이직(영어 학습 레벨 테스트 및 신청, 결제, 기존 서버 연동)
+      - 주요 프로젝트: 윤선생 베이직(영어 학습 레벨 테스트 및 신청, 인증, 결제, 기존 서버 연동)

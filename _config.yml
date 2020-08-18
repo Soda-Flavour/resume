@@ -32,9 +32,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   보유기술
 
-  <mark>Node.js</mark>
+  <mark>Node.js</mark> <mark>Flutter</mark>
 
-  <mark>Javascript</mark> <mark>Flutter</mark> <mark>PHP</mark> <mark>Html</mark> <mark>Css</mark> <mark>Jquery</mark> <mark>Mysql</mark> <mark>Apache</mark> <mark>nginX</mark> <mark>AWS</mark>
+  <mark>Javascript</mark> <mark>PHP</mark> <mark>Html</mark> <mark>Css</mark> <mark>Jquery</mark> <mark>Mysql</mark> <mark>Apache</mark> <mark>nginX</mark> <mark>AWS</mark>
 
 # About Section
 # about_title: 기술
