@@ -1,10 +1,10 @@
 - layout: left
   name: Tennist
-  github: Soda-Flavour/tennist-backend
+  github: Soda-Flavour/tennist-Server
   github_title: Backend
   github2: /Soda-Flavour/tennist_flutter
   github2_title: Frontend
-  dates: 2019년 5월 - 진행중
+  dates: 2020년 5월 - 진행중
   quote: 테니스 라켓 및 라켓 튜닝 정보를 공유할 수 있는 앱
   description: | # this will include new lines to allow paragraphs
     - 개발환경
