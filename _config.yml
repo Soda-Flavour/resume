@@ -2,6 +2,9 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# google analytics
+google_analytics_id: UA-175670079-1
+
 # Personal info
 name: 이대준 (LEE Daejun)
 title: Full Stack & Mobile Developer
