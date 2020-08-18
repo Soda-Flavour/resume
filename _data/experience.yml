@@ -6,7 +6,7 @@
   #   실시간 통역 어플리케이션 유지보수
   description: | # this will include new lines to allow paragraphs
     - 실시간 통역 어플리케이션 유지보수
-      - <mark>WebRTC</mark> 어플리케이션의 백앤드 및 프론트 앤드유지보수
+      - <mark>WebRTC</mark>기반 어플리케이션의 백앤드 및 프론트 앤드유지보수
     - 개인 프로젝트 수행 중
       - Tennist 어플리케이션 및 백앤드 서버 개발
 
