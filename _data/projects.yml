@@ -139,29 +139,29 @@
         - 베트남의 개발팀과 API 개발 관련 커뮤니케이션을 담당
         - 카카오 비즈톡을 통한 안내 메시지 전송 개발
 
-- layout: left
-  name: 윤선생 베이직
-  link: https://basic.yoons.com/
-  dates: 2017년 5월 - 2018년 5월
-  # github: Soda-Flavour/tennist-Server
-  # github_title: tennist-Server
-  quote: >
-    영어 학습 레벨테스트, 상품 구매 및 관리하는 홈페이지
-  description: | # this will include new lines to allow paragraphs
-    - 개발환경
-      - Cloud9(AWS)
-    - 개발언어/라이브러리
-      - <mark>JAVA</mark><mark>JSP</mark><mark>Spring Framework</mark><mark>OracleDB</mark><mark>html</mark><mark>Css</mark><mark>Javascript</mark><mark>Jquery</mark>
-    - 상세 업무
-      1. 공통
-        - 클라이언트와 커뮤니케이션
-      2. 프론트앤드
-        - 도서관리 배송(추가개발) 페이지 퍼블리싱
-        - 랜딩 페이지(추가개발) 페이지 퍼블리싱
-      3. 백앤드
-        - Spring 프레임워크를 사용한 개발
-        - 기존 DB 시스템과의 연동
-        - <mark>마이바티스</mark>를 사용한 데이터베이스 프로그래밍
-        - 결제 로직 구현 및 기존 정기결제 시스템과 연동
-        - 홈페이지 관리, 레벨 테스트에 대한 선생님 배치, 결제 및 회원 확인 등을 할 수 있는 관리자 개발
-        - SMS 인증 로직 개발
+# - layout: left
+#   name: 윤선생 베이직
+#   link: https://basic.yoons.com/
+#   dates: 2017년 5월 - 2018년 5월
+#   # github: Soda-Flavour/tennist-Server
+#   # github_title: tennist-Server
+#   quote: >
+#     영어 학습 레벨테스트, 상품 구매 및 관리하는 홈페이지
+#   description: | # this will include new lines to allow paragraphs
+#     - 개발환경
+#       - Cloud9(AWS)
+#     - 개발언어/라이브러리
+#       - <mark>JAVA</mark><mark>JSP</mark><mark>Spring Framework</mark><mark>OracleDB</mark><mark>html</mark><mark>Css</mark><mark>Javascript</mark><mark>Jquery</mark>
+#     - 상세 업무
+#       1. 공통
+#         - 클라이언트와 커뮤니케이션
+#       2. 프론트앤드
+#         - 도서관리 배송(추가개발) 페이지 퍼블리싱
+#         - 랜딩 페이지(추가개발) 페이지 퍼블리싱
+#       3. 백앤드
+#         - Spring 프레임워크를 사용한 개발
+#         - 기존 DB 시스템과의 연동
+#         - <mark>마이바티스</mark>를 사용한 데이터베이스 프로그래밍
+#         - 결제 로직 구현 및 기존 정기결제 시스템과 연동
+#         - 홈페이지 관리, 레벨 테스트에 대한 선생님 배치, 결제 및 회원 확인 등을 할 수 있는 관리자 개발
+#         - SMS 인증 로직 개발
